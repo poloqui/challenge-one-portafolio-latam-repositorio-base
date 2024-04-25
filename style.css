@@ -389,6 +389,11 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 /*Experiencia Profesional*/
 
+.experience__img{
+    overflow-x: hidden;
+    flex: 1 1 250px;
+}
+
  /*Contacto*/
 
 /*Footer*/

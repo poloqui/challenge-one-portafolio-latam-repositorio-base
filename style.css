@@ -65,8 +65,8 @@ https://en.bem.info/methodology/quick-start/*/
     gap: 10px;
 }
 
-.menu__list__item{
-
+.menu__list__item__contato{
+    display: none;
 }
 
 
